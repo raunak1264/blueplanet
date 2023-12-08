@@ -1,6 +1,6 @@
-# Blue Assassin's Gaming Hub
+# BluePlanet's Gaming Hub
 
-Welcome to the official repository for Blue Assassin's Gaming Hub! This repository contains the HTML and CSS code for the gaming hub website.
+Welcome to the official repository for BluePlanet's Gaming Hub! This repository contains the HTML and CSS code for the gaming hub website.
 
 ## Preview
 
@@ -9,7 +9,7 @@ Check out the live gaming hub https://twitch.tv/blue_assassin__.
 ## Features
 
 - **Responsive Design**: The website is designed to be responsive and user-friendly on various devices.
-- **Twitch Integration**: Watch Blue Assassin's live streams and recorded videos directly on the website.
+- **Twitch Integration**: Watch BluePlanet's live streams and recorded videos directly on the website.
 - **Discord Community**: Join the gaming community on Discord to chat and stay updated.
 
 ## How to Use
