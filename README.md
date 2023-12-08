@@ -17,7 +17,7 @@ Check out the live gaming hub https://twitch.tv/blue_assassin__.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/raunak1264/blueplanet.git)
+   git clone https://github.com/raunak1264/blueplanet.git
 
 **Customization**
 
