@@ -4,7 +4,7 @@ Welcome to the official repository for BluePlanet's Gaming Hub! This repository 
 
 ## Preview
 
-Check out the live gaming hub https://twitch.tv/blue_assassin__.
+Check out the live gaming hub https://twitch.tv/blueplanet0071.
 
 ## Features
 
@@ -31,7 +31,7 @@ Add more content or sections as needed.
 **
 If you have any questions or need assistance, feel free to reach out:
 
-**Twitch** https://twitch.tv/blue_assassin__
+**Twitch** https://twitch.tv/blueplanet0071
 **Discord** https://discord.gg/rHcQHYsX
 
 **License**
